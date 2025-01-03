@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'customFont';
+    src: url('./SourceHanSerifSC-Regular.otf') format('opentype');
+    }
+    
+    :root {
+    --vp-sidebar-width: 300px;
+    --vp-font-family-base: "customFont"
+    font-optical-sizing: auto;
+    }
+
+    :root {
+        --vp-c-brand-1: #161616;
+        --vp-c-text-1: #676767;
+        --vp-c-text-2: #67676c;
+        --vp-c-text-3: #929295;
+        --vp-c-brand-1: #161616;
+        --vp-c-brand-2: #cb1b1b;
+        --vp-c-brand-3: #161616;
+        --vp-c-bg-alt: #ffffff;
+        --vp-c-bg-elv: #ffffff;
+        --vp-c-bg-soft: #ffffff;
+        --vp-c-border: #ffffff;
+        --vp-c-divider: #ffffff;
+        --vp-c-gutter: #ffffff;
+      }

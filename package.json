@@ -3,9 +3,9 @@
     "vitepress": "^1.2.2"
   },
   "scripts": {
-    "docs:dev": "vitepress dev paperlezb",
-    "docs:build": "vitepress build paperlezb",
-    "docs:preview": "vitepress preview paperlezb"
+    "docs:dev": "vitepress dev lkhh",
+    "docs:build": "vitepress build lkhh",
+    "docs:preview": "vitepress preview lkhh"
   },
   "dependencies": {
     "busuanzi.pure.js": "^1.0.3",
