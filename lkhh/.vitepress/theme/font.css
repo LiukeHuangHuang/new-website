@@ -4,7 +4,7 @@
     }
     
     :root {
-    --vp-sidebar-width: 300px;
+
     --vp-font-family-base: "customFont"
     font-optical-sizing: auto;
     }
@@ -24,3 +24,4 @@
         --vp-c-divider: #ffffff;
         --vp-c-gutter: #ffffff;
       }
+

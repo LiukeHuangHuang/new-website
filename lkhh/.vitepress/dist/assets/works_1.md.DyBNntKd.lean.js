@@ -1,0 +1,1 @@
+import{_ as p,c as i,o as t,a1 as o}from"./chunks/framework.BwTyoF0R.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"works/1.md","filePath":"works/1.md"}'),e={name:"works/1.md"},l=o("",3),_=[l];function a(r,s,n,c,d,m){return t(),i("div",null,_)}const w=p(e,[["render",a]]);export{f as __pageData,w as default};
