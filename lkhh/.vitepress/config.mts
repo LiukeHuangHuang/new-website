@@ -42,23 +42,33 @@ export default defineConfig({
         text: 'WORKS',
         collapsed: false,
         items: [
-          { text: '123', link: '/works/1.md' }, // 作品markdown
-          { text: 'XX', link: '/works/2.md' },
-          { text: 'XX', link: '/works/3.md' },
-          { text: 'XX', link: '/works/xx.md' },
-          { text: 'XX', link: '/works/xx.md' },
-          { text: 'XX', link: '/works/xx.md' },
-          { text: 'XX', link: '/works/xx.md' },
-          { text: 'XX', link: '/works/xx.md' },
-          { text: 'XX', link: '/works/xx.md' },
+          { text: 'BRAVE NEW WORLD', link: '/works/brave_new_world.md' }, // 作品markdown
+          { text: 'FOR TIME', link: '/works/for_time.md' },
+          { text: 'TO NIETZSCHE', link: '/works/to_nietzsche.md' },
+          { text: 'MIRROR', link: '/works/mirror.md' },
+          { text: 'SPRING IS COMING', link: '/works/sprin_is_coming.md' },
+          { text: 'STILL LAKE', link: '/works/still_lake.md' },
 
           ]
         },
         {
+          text: 'PERFORMANCE ART',
+          collapsed: false,
+          items: [
+            // 玫瑰花，不用做  { text: 'LET HIM ONLY SEE THE THORNS WHO HAS EYES TO SEE THE ROSE', link: '/performance_art/xx.md' },
+            { text: 'STILL FLOWING', link: '/performance_art/still_flowing.md' }, //行为
+            { text: 'A WAY TO CELEBRATE LIFE', link: '/performance_art/a_way_to_celebrate_life.md' },
+            { text: 'LIGHT AT THE MEETING', link: '/performance_art/light_at_the_meeting.md' },
+            { text: 'OTHERS', link: '/performance_art/others.md' },
+            ]
+          },
+        {
         text: 'BOOKS',
         collapsed: false,
         items: [
-          { text: 'XX', link: '/books/xx.md' }, // 书
+          { text: 'MIRROR', link: '/books/mirror.md' }, // 镜子
+          { text: 'TO NIETZSCHE', link: '/books/to_nietzsche.md' }, // 致尼采
+          { text: 'STILL LAKE', link: '/books/still_lake.md' }, // 平湖
           ]
         },
         {

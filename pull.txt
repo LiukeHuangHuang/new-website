@@ -2,7 +2,7 @@ npm run docs:build
 git init
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:NDSSTUDIO/ndsstudio.git master:main
+git push -f git@github.com:LiukeHuangHuang/new-website.git master:main
 
 
 
